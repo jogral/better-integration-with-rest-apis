@@ -1,0 +1,15 @@
+{
+	"name": "Better Product Integration with REST APIs",
+	"description": "You want to do more. This is how you'll be able to. Learn more about how to deliver more value to your customers with APIs.",
+    "tbd": true,
+    "image": "images/rest-api-logo.png",
+    "tags": ["networking", "rest", "api", "integrations"],
+    "teaser_text": "Go from post-mortem to invigorated.",
+    "presented_by": "Jogral",
+    "technologies_used": ["java", "c#", ".net", "rest", "clojure"],
+    "tiers": ["standard"],
+    "time_to_completion": "2 hours",
+    "toc_description": "Bring apps together and create a seamless experience.",
+	"long_description": "Mehdi Medjaoui, Founder of the APIDays Conference, said it best: APIs are a business term. Your favorite apps dedicate themselves to creating a smooth experience that doesn't just cooperate with but also enhances other apps.\n\nWe don't need to tell you the benefit of integrating your software&mdash;you know the value. But what makes today's \"born on the cloud\" startups create value and transform human behavior? Yep, APIs. By doing this, we add value to our customers and learn more about them.\n\nThe intent of this course is to show you how to use APIs for a better customer experience as well as how you can _make your own_.\n\nWe'll provide you with an example API we already made that will help you understand the integration. Then, you'll design a _true_ RESTful service. But what makes this a \"true\" service?\n\nTo answer that question, you need to know what you'll be learning. In short:\n\n1. Web communication (aka HTTP)\n 2. An overview of REST\n3. Using a vendor's API\n4. Making your own\n\nWhen you're done, check out our other classes, like our microservices courses, where we see REST APIs in action.",
+	"modules": {}
+}
